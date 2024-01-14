@@ -1,0 +1,1 @@
+This project is an RPG video game developed in Pygame with the purpose of practicing my programming skills and as a hobby. :D
